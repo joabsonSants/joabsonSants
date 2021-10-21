@@ -1,9 +1,9 @@
 ### Olá Seja Bem Vindo!! me chamo Joabon 👋
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jose_joabson/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBBdqkKnBPqXKqFNNPpHppKRQcGlzrKJbKCRRXXnBflqPKfdfpKdLgwWnNLMVpQnlDWrL)
-
 
 
 ![Joabson GitHub stats](https://github-readme-stats.vercel.app/api?username=joabsonSants&show_icons=true&theme=dracula)
@@ -20,5 +20,3 @@
 </div>
 
 <br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joabsonSants&repo=github-readme-stats)](https://github.com/joabsonSants/github-readme-stats)
