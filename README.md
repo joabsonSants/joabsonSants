@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBBdqkKnBPqXKqFNNPpHppKRQcGlzrKJbKCRRXXnBflqPKfdfpKdLgwWnNLMVpQnlDWrL)
 
 
-![Joabson GitHub stats](https://github-readme-stats.vercel.app/api?username=joabsonSants&card_width=250px&show_icons=true&theme=dracula)
+![Joabson GitHub stats](https://github-readme-stats.vercel.app/api?username=joabsonSants&show_icons=true&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joabsonSants)](https://github.com/joabsonSants/github-readme-stats)
  
 
